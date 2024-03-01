@@ -1,4 +1,5 @@
-# KrypApp
+# FILE ENCRYPTION AND DECRYPTION
+
 File Encryption GUI App with Python
 
 ![Screenshot](https://raw.githubusercontent.com/ahmednooor/KrypApp/master/screenshot.png)
