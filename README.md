@@ -20,7 +20,10 @@ File Encryption GUI App with Python
 pip install pycryptodomex
 ```
 if also not run then 
-* `pip install pycryptodome` 
+* download `pycryptodome` module by:-
+```sh
+pip install pycryptodome
+```
 
 * `cx_freeze` to build executable.
 ```sh
