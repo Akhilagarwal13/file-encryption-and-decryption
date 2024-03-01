@@ -2,7 +2,7 @@
 
 File Encryption GUI App with Python
 
-![Screenshot](https://raw.githubusercontent.com/ahmednooor/KrypApp/master/screenshot.png)
+![Screenshot](encryption.png)
 
 ### Tech Stack
 * Python 3
