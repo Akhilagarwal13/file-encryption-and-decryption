@@ -12,7 +12,7 @@ File Encryption GUI App with Python
 * cx_freeze to build executable
 
 ### best python interpretor
-* python3.11.8 and copy path of pythonw.exe 
+* python 3.11.8 and copy path of pythonw.exe 
 
 ### External Dependencies
 * `pycryptodomex` for AES encryption.
